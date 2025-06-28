@@ -1,9 +1,14 @@
-+++
-date = '2025-06-24T18:37:42-07:00'
-draft = false
-title = 'Pious Men'
-tags = ["About", "Men"]
-+++
+---
+date: '2025-06-24T18:37:42-07:00'
+draft: false
+title: 'About'
+tags: ["About", "Men"]
+menu:
+    main: 
+        weight: 0
+        params:
+            icon: user
+---
 ## Introduction
 
 We strive to be pious men! Pious has taken on an image of hypocrisy and holy-than-thou attitude since it was originally coined but I mean it in the traditional
