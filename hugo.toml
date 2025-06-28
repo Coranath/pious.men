@@ -6,4 +6,15 @@ theme = 'hugo-theme-stack'
 
 [Params]
 
-    favicon = "/chain.webp"
+    favicon = "chain.webp"
+    mainSections = ["posts"]
+    [footer]
+        since = 2025
+        customText = "Stay in the Way!"
+    [sidebar]
+        compact = true
+        subtitle = "Stay in the Way!"
+        [avatar]
+            enabled = true
+            local = true
+            src = "chain.webp"
