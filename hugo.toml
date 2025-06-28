@@ -4,17 +4,20 @@ title = 'Pious Men'
 theme = 'hugo-theme-stack'
 
 
-[Params]
+[params]
 
     favicon = "chain.webp"
     mainSections = ["posts"]
-    [footer]
+
+    [params.footer]
         since = 2025
         customText = "Stay in the Way!"
-    [sidebar]
+
+    [params.sidebar]
         compact = true
         subtitle = "Stay in the Way!"
-        [avatar]
-            enabled = true
-            local = true
-            src = "chain.webp"
+        
+    [params.sidebar.avatar]
+        enabled = true
+        local = true
+        src = "chain.webp"
