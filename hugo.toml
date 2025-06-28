@@ -1,0 +1,9 @@
+baseURL = 'https://pious.men/'
+languageCode = 'en-us'
+title = 'Pious Men'
+theme = 'hugo-theme-stack'
+
+
+[Params]
+
+    favicon = "/chain.webp"
