@@ -2,7 +2,7 @@
 date: '2025-07-04T10:24:30-07:00'
 draft: true
 title: 'Faithful in Little'
-pubdate: '2025-07-11T10:24:30-07:00'
+pubdate: '2025-07-04T10:24:30-07:00'
 params:
     author: "Levi Moore"
 
