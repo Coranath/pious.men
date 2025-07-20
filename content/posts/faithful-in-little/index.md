@@ -1,7 +1,6 @@
 ---
 date: '2025-07-04T10:24:30-07:00'
 draft: false
-toc: true
 title: 'Faithful in Little'
 pubdate: '2025-07-04T10:24:30-07:00'
 params:

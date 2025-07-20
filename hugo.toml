@@ -21,3 +21,6 @@ theme = 'hugo-theme-stack'
         enabled = true
         local = true
         src = "chain.webp"
+
+[[params.widgets.page]]
+    type = "toc"
