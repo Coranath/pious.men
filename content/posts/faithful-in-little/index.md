@@ -5,7 +5,7 @@ toc: true
 title: 'Faithful in Little'
 pubdate: '2025-07-04T10:24:30-07:00'
 params:
-    author: "Levi Moore"
+    author: "Levi Moore"
 
 ---
 
