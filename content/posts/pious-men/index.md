@@ -8,10 +8,10 @@ tags = ["About", "Men"]
 
 We strive to be pious men! Pious has taken on an image of hypocrisy and holy-than-thou attitude since it was originally coined but I mean it in the traditional
 sense! Pious: Faithful, Living one's convictions, Honoring one's duties. What more could we desire to be?! Piety encompasses courage, for it is the epitome of courage
-to remain faithful in the face of doubt, derision, and despair! Piety includes strength for just as one must be courages to remain faithful, one must be
+to remain faithful in the face of doubt, derision, and despair! Piety includes strength for just as one must be courageous to remain faithful, one must be
 strong in order to live out their convictions, if your convictions do not demand strength of you then they are weak, worthless, and wilted! Piety requires love
 for to honor one's duties in spite of the pain and suffering that may come from such a task requires that you love something, whether that be your dog, your daughter,
-your duty, or your diety!
+your duty, or your deity!
 
 Piety is one of the core pillars of masculinity! Not just faith, but piety, even in modern dictionaries it is often described as something outward. The modern
 description ignores the inward piety, but still reflects that piety is more than just faith in something! It is to act upon that faith! To believe in something
