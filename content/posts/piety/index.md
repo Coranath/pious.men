@@ -8,7 +8,7 @@ params:
 tags:
     - About
     - Men
-thumbnail: "piety.jpg"
+image: "piety.jpg"
 ---
 
 # Piety
