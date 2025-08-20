@@ -11,7 +11,7 @@ tags:
 ---
 
 # Piety
-When I first picked the name pious.men it was the first thing that struck a chord with me and also was in the cheapest tier of Domain names for sale from CloudFlare. But I did love it! I loved the simplicity, the brevity, the implication. I loved that it was an old word that had lost a lot of it's original meaning and I felt was ripe for a revival!
+When I first picked the name pious.men it was the first thing that struck a chord with me and also was in the cheapest tier of domain names for sale from Cloudflare. But I did love it! I loved the simplicity, the brevity, the implication. I loved that it was an old word that had lost a lot of it's original meaning and I felt was ripe for a revival!
 
 However upon staking my claim here I began seraching for my tiny corner of the internet on the mighty Google! And when I did, I found that pious men are something that is fading in both name and form in the west, but not so in islamic culture! 
 
@@ -24,6 +24,7 @@ So despite the name of my site piety alone is not good! Pious men are not good! 
 I am obviously religious! I worship the God of the Bible, and Jesus who came to earth to save me! I encourage you to consider it as well. But if you find yourself without a guiding code in your life and you do not wish to seek after God, then there are a few easy simple things that are never immoral. If you wish to do nothing else, have no higher code, then at least do these two things. 
 - Protect those who cannot protect themselves. This may be children, whether yours or not, women, or other men. Your protection will not always be physical, sticking up for someone who is being walked all over in a meeting is this same value. 
 - Help people. This one is not as exciting as the last one but comes up so much more often! Take the time to help someone pick things up when they drop a pile! Help someone carry that heavy thing!
+
 If you do those two things then you'll be living out the second greatest commandment!
 
 God bless, stay in the way!
