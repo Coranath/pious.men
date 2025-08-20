@@ -1,8 +1,8 @@
 ---
-date: '2025-08-20T18:37:42-07:00'
+date: '2025-08-19T18:37:42-07:00'
 draft: false
 title: 'Piety'
-pubdate: '2025-08-20T19:24:30-07:00'
+pubdate: '2025-08-19T19:24:30-07:00'
 params:
     author: 'Levi Moore'
 tags:
