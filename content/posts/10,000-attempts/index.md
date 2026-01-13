@@ -1,13 +1,13 @@
 ---
-date: '2025-12-10T00:00:00-07:00'
-draft: true
+date: '2026-01-12T00:00:00-07:00'
+draft: false
 title: '10,000 Attempts'
-pubdate: '2025-12-10T00:00:00-07:00'
+pubdate: '2026-01-12T00:00:00-07:00'
 params:
     author: 'Levi Moore'
 tags:
     - Life
-#image: "piety.jpg"
+image: "RockStacks.webp"
 ---
 
 10,000 hours of training is a generally accepted as a requirement for attaining expertise in a skill.
