@@ -8,7 +8,7 @@ params:
 tags:
     - Life
     - Faith
-iamge: "seed-starting-2.jpeg"
+image: "seed-starting-2.jpeg"
 ---
 
 # Faithful in the Little Things!
