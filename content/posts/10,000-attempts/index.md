@@ -26,7 +26,4 @@ There are VERY few truly brilliant people! Nikola Tesla was one of those people!
 
     Success is 10% inspiration, and 90% perspiration. -Thomas Edison
 
-And though I admire and prefer Tesla's genius, we cannot all be savants. We can all be persistent however and that, throughout history, has shown just as much, if not more success!
-
-
-## Power Law
+And though I admire and prefer Tesla's genius, we cannot all be savants. But we can all be persistent and that, throughout history, has shown just as much, if not more success!
