@@ -3,6 +3,7 @@ date = '2025-06-24T18:37:42-07:00'
 draft = false
 title = 'Pious Men'
 tags = ["About", "Men"]
+image = "roosevelt_theodore_WD-1.jpg"
 +++
 ## Introduction
 
