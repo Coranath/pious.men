@@ -9,7 +9,7 @@ touch index.md
 echo "---
 date: '$(date '+%Y-%m-%dT%H:%M:%S')'
 draft: true
-title: 'NAMEME'
+title: '$argv'
 pubdate: '$(date '+%Y-%m-%dT%H:%M:%S')'
 params:
     author: 'Levi Moore'

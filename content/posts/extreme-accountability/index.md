@@ -1,12 +1,15 @@
 ---
 date: '2026-07-25T20:00:50'
 draft: true
-title: 'NAMEME'
+title: 'Extreme Accountability~'
 pubdate: '2026-07-25T20:00:50'
 params:
     author: 'Levi Moore'
 tags:
-    - CHANGEME
+    - Life
+    - Faith
 image: 'LOOKATME'
 ---
+
+I'm reading a book right now wherein the main character is trying to establish a society 
 
