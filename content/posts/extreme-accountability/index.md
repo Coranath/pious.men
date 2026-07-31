@@ -1,7 +1,7 @@
 ---
 date: '2026-07-29T00:00:50'
 draft: false
-title: 'Extreme Accountability~'
+title: 'Extreme Accountability'
 pubdate: '2026-07-29T00:00:50'
 params:
     author: 'Levi Moore'
