@@ -1,6 +1,6 @@
 ---
 date: '2026-07-30T19:06:28'
-draft: true
+draft: false
 title: 'Superman'
 pubdate: '2026-07-30T19:06:28'
 params:
@@ -23,7 +23,7 @@ Superman does actually kill, it's an interesting distiction between him and Batm
 
 # A Boring Hero
 
-People have called Superman boring since he is pretty much purely good. He doesn't have dark, brooding eyes or a complicated relationship with justice. But what better fantasy can there be? What better Super man could there be? We all struggle with what's right and with doing what's right even if we can discern it! We all are too weak at times, and too strong at others. A relatable character can be great. But Superman is just that! He's something more, something better! Something to aspire to! He's one of my favorite heroes for that very reason! I don't relate to him, but I want to be like him! To be strong enough to deter ANY threat, so strong that I don't have to kill them. I can disarm them and then give them a second chance since they are really no threat to me! I can know what's right, and have the will to do it!
+People call Superman boring since he is pretty much purely good. He doesn't have dark, brooding eyes or a complicated relationship with justice. But what better fantasy can there be? What better Super man could there be? We all struggle with what's right and with doing what's right even if we can discern it! We all are too weak at times, and too strong at others. A relatable character can be great, but Superman isn't that! He's something more, something better! Something to aspire to! He's one of my favorite heroes for that very reason! I don't relate to him, but I want to be like him! To be strong enough to deter ANY threat, so strong that I don't have to kill them. I can disarm them and then give them a second chance! I can know what's right, and have the will to do it!
 
 # A Normal Guy
 
