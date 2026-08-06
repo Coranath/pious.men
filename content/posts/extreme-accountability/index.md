@@ -30,4 +30,4 @@ It's not a perfect solution, and obviously there would need to be some restricti
 Most militaries know this system and have very strong accountability set up. When in basic training the whole squad fails or passes together. If you have someone in your squad who is bad at making his bed then you help him because he will cause you all to fail if he is left alone! Once you have some men under you, they are your responsibility. If one of them doesn't show up to formation you are the first person that they go to and reprimand.
 
 
-{{ <comments> }}
+{{<comments>}}

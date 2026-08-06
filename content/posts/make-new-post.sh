@@ -22,4 +22,4 @@ image: 'LOOKATME'
 
 
 
-{{ <comments> }}" > index.md
+{{<comments>}}" > index.md

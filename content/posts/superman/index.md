@@ -29,4 +29,4 @@ People call Superman boring since he is pretty much purely good. He doesn't have
 
 His day job is as a reporter, he could pull an "Ironman" and tell the world that he's Superman, but he wants to live a normal life. Again separating him from the Nazi, or even most people's, idea for an UberMensch! If I gained his power and abilities, would I keep working my day job? Would I want to pretend that I was just a normal guy, deal with annoying bosses, commute to work everyday, and all the other things that come along with normal guy life! No!
 
-{{ <comments> }}
+{{<comments>}}
