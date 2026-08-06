@@ -17,4 +17,9 @@ tags:
     - CHANGEME
 image: 'LOOKATME'
 ---
-" > index.md
+
+
+
+
+
+{{ <comments> }}" > index.md
