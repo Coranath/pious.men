@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Pious Men'
 theme = 'hugo-theme-stack'
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
 
 [params]
 
