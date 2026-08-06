@@ -33,4 +33,4 @@ God bless, stay in the way!
 John 14:6 Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me."
 
 
-{{ <comments> }}
+{{< comments >}}
