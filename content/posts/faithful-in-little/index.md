@@ -47,3 +47,5 @@ The concept is quite simple! You write a simple document that covers your histor
 
 I hope that I've encouraged you! Godspeed, and stay in the Way!
  
+
+{{ <comments> }}
