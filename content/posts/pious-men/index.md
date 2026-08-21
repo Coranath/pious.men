@@ -7,7 +7,7 @@ image = "roosevelt_theodore_WD-1.jpg"
 +++
 ## Introduction
 
-We strive to be pious men! Pious has taken on an image of hypocrisy and holy-than-thou attitude since it was originally coined but I mean it in the traditional
+We strive to be pious men! Pious has taken on an image of hypocrisy and holier-than-thou attitude since it was originally coined but I mean it in the traditional
 sense! Pious: Faithful, Living one's convictions, Honoring one's duties. What more could we desire to be?! Piety encompasses courage, for it is the epitome of courage
 to remain faithful in the face of doubt, derision, and despair! Piety includes strength for just as one must be courageous to remain faithful, one must be
 strong in order to live out their convictions, if your convictions do not demand strength of you then they are weak, worthless, and wilted! Piety requires love
