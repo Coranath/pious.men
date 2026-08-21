@@ -53,7 +53,7 @@ This is hypothetically heaven, or in the worst case, hell. When we are either cl
 
 ## Takeaways
 
-This veiwpoint gave me some perspective on my relationship with God! When I was young, and my mother spanked me for something bad that I had done, I was angry, I was bitter, I regretted what I had done but even more I regretted that it had resulted in my pain. And I somewhat blamed mom for inflicting that pain on me! (*I was a bad and rotten kid*) But looking back on it, it all makes sense! I see how what she did was almost always in my best interest. Now I thank her for the discipline she gave me, and I tease her that if anything I probably needed more! I hope that when I get to heaven I can look back on my time here, my trials and temptations, and realize the same thing! That it was all actually for the best! To make me the kind of person that wants to live close to God and that He wants to spend time with! And it helps me while going through these times to think about that!
+This viewpoint gave me some perspective on my relationship with God! When I was young, and my mother spanked me for something bad that I had done, I was angry, I was bitter, I regretted what I had done but even more I regretted that it had resulted in my pain. And I somewhat blamed mom for inflicting that pain on me! (*I was a bad and rotten kid*) But looking back on it, it all makes sense! I see how what she did was almost always in my best interest. Now I thank her for the discipline she gave me, and I tease her that if anything I probably needed more! I hope that when I get to heaven I can look back on my time here, my trials and temptations, and realize the same thing! That it was all actually for the best! To make me the kind of person that wants to live close to God and that He wants to spend time with! And it helps me while going through these times to think about that!
 
 And even though I sin, and I keep on sinning! I am encouraged that I am still a child. And I am still learning, and at this point it matters most that I keep trying to be like my Father! So long as I don't turn away completely, I don't spurn him, then I can keep moving toward that beautiful relationship with Him that I want!
 
@@ -61,7 +61,7 @@ And even though I sin, and I keep on sinning! I am encouraged that I am still a 
 
 ## The 4 states of God and us
 
-God the father above us
+God the Father above us
 
 Jesus Christ among us
 
