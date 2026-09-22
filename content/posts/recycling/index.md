@@ -27,13 +27,13 @@ All of that aside, I do think that we should be as careful as we can not to make
 
 ## Other Recycling
 
-Plastic is terrible, and since it’s kind of the poster child for recycling I assumed that we were just terrible at recycling. But then I watched a very cool video about solar [https://www.youtube.com/watch?v=Zgxb8I1nk2I]( https://www.youtube.com/watch?v=Zgxb8I1nk2I). There’re lots of cool things that he says in that video and in general I love solar! I live totally off grid and have for 6 years. My only power source for years was solar 16 solar panels, and I have loved them. Last year I bought a generator so that I can have backup power when necessary, but I almost never need to use it! But the main point for this article that he mentions in that video is that we can recycle greater than 90% of the resources used in a solar system.
+Plastic is terrible, and since it’s kind of the poster child for recycling I assumed that we were just terrible at recycling. But then I watched a very cool video about [solar](https://www.youtube.com/watch?v=Zgxb8I1nk2I). There’re lots of cool things that he says in that video and in general I love solar! I live totally off grid and have for 6 years. My only power source for years was solar 16 solar panels, and I have loved them. Last year I bought a generator so that I can have backup power when necessary, but I almost never need to use it! But the main point for this article that he mentions in that video is that we can recycle greater than 90% of the resources used in a solar system.
 
 ### Aluminum
 
 Aluminum can be recycled with 95% less energy than it takes to mine and refine unprocessed aluminum, and it also can be recycled with 98% retention. Meaning that it takes 5% of the energy to return 98% of the aluminum. And unlike plastic, this recycled aluminum is not degraded in any way! It is infinitely recyclable.
 
-Unfortunately in the US due to plastic recycling ruining recycling's good name, according to the EPA [^1]:https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/aluminum-material-specific-data less than 20% of the aluminum in US got recycled in 2018, meaning that billions of dollars worth of aluminum ends up in landfills every year! 
+Unfortunately in the US due to plastic recycling ruining recycling's good name, according to the [EPA]:https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/aluminum-material-specific-data less than 20% of the aluminum in US got recycled in 2018, meaning that billions of dollars worth of aluminum ends up in landfills every year! 
 
 ### Glass
 
