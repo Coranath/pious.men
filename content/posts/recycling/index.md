@@ -6,8 +6,9 @@ pubdate: '2026-09-21T18:35:24'
 params:
     author: 'Levi Moore'
 tags:
-    - CHANGEME
-image: 'LOOKATME'
+    - Cool stuff
+    - Recycling
+image: 'recycling.png'
 ---
 
 # Recycling
@@ -31,6 +32,8 @@ Plastic is terrible, and since it’s kind of the poster child for recycling I a
 ### Aluminum
 
 Aluminum can be recycled with 95% less energy than it takes to mine and refine unprocessed aluminum, and it also can be recycled with 98% retention. Meaning that it takes 5% of the energy to return 98% of the aluminum. And unlike plastic, this recycled aluminum is not degraded in any way! It is infinitely recyclable.
+
+Unfortunately in the US due to plastic recycling ruining recycling's good name, according to the EPA [^1]:https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/aluminum-material-specific-data less than 20% of the aluminum in US got recycled in 2018, meaning that billions of dollars worth of aluminum ends up in landfills every year! 
 
 ### Glass
 
