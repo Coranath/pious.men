@@ -47,7 +47,7 @@ This is what makes up the circuit boards for almost all electronics in the world
 
 With glass, aluminum, and silicon, we see that solar panels are greater than 90% recyclable. So after the 25ish year lifespan of a solar panel you can melt 10 of them down into aluminum, glass, and silicon which can be poured back into more than 9 brand new solar panels. While making those new panels you will consume less energy and therefore cost less than making the original 10 cost. This should be a virtuous cycle where we need to mine fewer and fewer resources to produce the power that we need.
 
-## Batteries
+### Batteries
 
 Batteries are a very troublesome aspect of this recycling chain. Mining lithium is very expensive, and lithium is rare. It is also volatile and relies on chemical and mechanical interactions in order to store electricity, and over time that chemistry and structure breaks down. At that point the battery stops working. I always figured that was the end of the battery but even with lithium ion batteries we can new recycle up to 95% of the resources in the batteries and they are also infinitely recyclable!
 
