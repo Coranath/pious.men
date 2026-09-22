@@ -1,7 +1,7 @@
 ---
 date: '2026-09-21T18:35:24'
 draft: false
-title: 'recycling'
+title: 'Recycling'
 pubdate: '2026-09-21T18:35:24'
 params:
     author: 'Levi Moore'
