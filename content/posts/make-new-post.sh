@@ -1,8 +1,8 @@
 #! /bin/fish
 
-mkdir $argv
+mkdir "$argv"
 
-cd $argv
+cd "$argv"
 
 touch index.md
 
